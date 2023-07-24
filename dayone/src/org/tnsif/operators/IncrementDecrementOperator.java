@@ -5,6 +5,7 @@ package org.tnsif.operators;
 
 public class IncrementDecrementOperator {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int p=11; int q=2;
