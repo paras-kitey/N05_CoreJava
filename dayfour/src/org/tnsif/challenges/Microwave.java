@@ -40,7 +40,7 @@ case 3:
 System.out.println("For three items \n" +" The recomended time is : " + threeitems+"min");
  break;
 default:
-	System.out.println("Heating more than three items is not recomended");
+	System.out.println("Heating more than three items are not recomended");
 
 
 }
