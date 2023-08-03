@@ -1,4 +1,5 @@
 /*If any variable is outside the main function then t use this variable inside
+
  * main method
  * either we create an object of that class or simply make the variable as static*/
 

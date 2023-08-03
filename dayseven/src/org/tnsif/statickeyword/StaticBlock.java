@@ -24,3 +24,6 @@ print();
 	}
 
 }
+
+
+// Difference between static and new keyword
