@@ -7,9 +7,10 @@ public class CompileTimeMethodOverloading
 static class Bollywood
 {
 	String s1,s2,s3;
-	static void  display(String s1 , String s2)
+	static int  display(String s1 , String s2)
 	{
 		System.out.println(s1+" loves "+s2);
+		return 0; 
 	}
 	static void  display(String s1 , String s2,String s3)
 	{
